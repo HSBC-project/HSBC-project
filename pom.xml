@@ -7,13 +7,13 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>HSBC</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>HSBC</name>
+		<url>http://HSBC.com/</url>
 	</organization>
 
 	<properties>
