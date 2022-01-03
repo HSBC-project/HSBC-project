@@ -93,16 +93,6 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	
-	    <repository>
-	      <id>nexus</id>
-	      <name>maven_project Nexus Repository</name>
-	      <url>http://3.111.35.114:8081/repository/Santosh/</url>
-	    </repository>
-	    
-        </distributionManagement>
-	
 	<build>
 		<finalName>maven-web-application</finalName>
 		
