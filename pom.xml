@@ -94,7 +94,7 @@
 	</dependencies>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>HSBC</finalName>
 		
 		<plugins>
 			<plugin>
